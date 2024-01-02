@@ -1,1 +1,1 @@
- print the integer stored in the variable number
+0x00. Python - Hello, World
